@@ -1,7 +1,7 @@
 # Progetto in Python svolto per sostenere l'esame di Linguistica Computazionale
 
-Progetto svolto per sostenere l’esame di Linguistica Computazionale 
+## Progetto svolto per sostenere l’esame di Linguistica Computazionale 
 
-Dopo aver creato due corpora in inglese, di almeno 5000 token ciascuno, contenenti testi estratti rispettivamente da blog di racconti di viaggio scritti da uomini e donne, sui suddetti corpora sono state eseguite alcune operazioni 
--	Programma 1: confronto dei testi in base ad alcune informazioni statistiche 
--	Programma 2: Estrazione di informazioni da ognuno dei due corpora separatamente
+#### Dopo aver creato due corpora in inglese, di almeno 5000 token ciascuno, contenenti testi estratti rispettivamente da blog di racconti di viaggio scritti da uomini e donne, sui suddetti corpora sono state eseguite alcune operazioni 
+###### - Programma 1: confronto dei testi in base ad alcune informazioni statistiche 
+###### - Programma 2: Estrazione di informazioni da ognuno dei due corpora separatamente

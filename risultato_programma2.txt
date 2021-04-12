@@ -1,0 +1,317 @@
+
+
+***************OUPUT PROGRAMMA 2***************
+
+
+------2O TOKEN PIU' FREQUENTI------
+20 token piu' frequenti (esclusa la punteggiatura) del corpus dei racconti di viaggio delle donne:
+	the  occorre  272 volte
+	and  occorre  167 volte
+	a  occorre  156 volte
+	of  occorre  148 volte
+	to  occorre  139 volte
+	in  occorre  113 volte
+	I  occorre  77 volte
+	is  occorre  73 volte
+	's  occorre  69 volte
+	was  occorre  51 volte
+	it  occorre  49 volte
+	you  occorre  49 volte
+	on  occorre  47 volte
+	with  occorre  44 volte
+	for  occorre  40 volte
+	that  occorre  37 volte
+	The  occorre  35 volte
+	this  occorre  33 volte
+	It  occorre  32 volte
+	are  occorre  32 volte
+
+20 token piu' frequenti (esclusa la punteggiatura) del corpus dei racconti di viaggio degli uomini:
+	the  occorre  268 volte
+	and  occorre  175 volte
+	to  occorre  174 volte
+	of  occorre  138 volte
+	a  occorre  133 volte
+	in  occorre  99 volte
+	you  occorre  98 volte
+	Holbox  occorre  96 volte
+	I  occorre  91 volte
+	is  occorre  87 volte
+	Isla  occorre  83 volte
+	on  occorre  67 volte
+	it  occorre  62 volte
+	for  occorre  53 volte
+	with  occorre  52 volte
+	was  occorre  46 volte
+	be  occorre  44 volte
+	are  occorre  42 volte
+	that  occorre  41 volte
+	at  occorre  39 volte
+
+
+------2O AGGETTIVI PIU' FREQUENTI------
+20 aggettivi piu' frequenti del corpus dei racconti di viaggio delle donne: 
+	more  occorre  11 volte
+	best  occorre  10 volte
+	many  occorre  9 volte
+	little  occorre  9 volte
+	few  occorre  9 volte
+	beautiful  occorre  9 volte
+	colombian  occorre  8 volte
+	hot  occorre  8 volte
+	local  occorre  7 volte
+	small  occorre  7 volte
+	famous  occorre  6 volte
+	worth  occorre  6 volte
+	much  occorre  5 volte
+	same  occorre  5 volte
+	favourite  occorre  5 volte
+	new  occorre  4 volte
+	own  occorre  4 volte
+	strong  occorre  4 volte
+	white  occorre  4 volte
+	other  occorre  4 volte
+
+20 aggettivi piu' frequenti del corpus dei racconti di viaggio degli uomini: 
+	small  occorre  12 volte
+	beautiful  occorre  9 volte
+	most  occorre  8 volte
+	great  occorre  7 volte
+	possible  occorre  7 volte
+	good  occorre  6 volte
+	new  occorre  6 volte
+	many  occorre  6 volte
+	few  occorre  6 volte
+	more  occorre  6 volte
+	able  occorre  6 volte
+	full  occorre  5 volte
+	first  occorre  5 volte
+	main  occorre  5 volte
+	certain  occorre  5 volte
+	different  occorre  5 volte
+	other  occorre  5 volte
+	sure  occorre  5 volte
+	young  occorre  4 volte
+	cool  occorre  4 volte
+
+
+------2O VERBI PIU' FREQUENTI------
+20 verbi piu' frequenti del corpus dei racconti di viaggio delle donne: 
+	is  occorre  73 volte
+	was  occorre  51 volte
+	's  occorre  43 volte
+	are  occorre  32 volte
+	were  occorre  27 volte
+	see  occorre  20 volte
+	be  occorre  20 volte
+	have  occorre  16 volte
+	had  occorre  15 volte
+	has  occorre  14 volte
+	visit  occorre  13 volte
+	been  occorre  11 volte
+	go  occorre  9 volte
+	get  occorre  9 volte
+	do  occorre  9 volte
+	want  occorre  8 volte
+	've  occorre  8 volte
+	're  occorre  8 volte
+	did  occorre  7 volte
+	take  occorre  7 volte
+
+20 verbi piu' frequenti del corpus dei racconti di viaggio degli uomini: 
+	is  occorre  87 volte
+	was  occorre  46 volte
+	be  occorre  44 volte
+	are  occorre  42 volte
+	's  occorre  30 volte
+	have  occorre  26 volte
+	're  occorre  15 volte
+	were  occorre  13 volte
+	get  occorre  11 volte
+	been  occorre  10 volte
+	has  occorre  10 volte
+	do  occorre  9 volte
+	had  occorre  9 volte
+	got  occorre  8 volte
+	've  occorre  8 volte
+	want  occorre  7 volte
+	take  occorre  7 volte
+	going  occorre  7 volte
+	taking  occorre  7 volte
+	make  occorre  7 volte
+
+
+------1O POS PIU' FREQUENTI------
+10 POS piu' frequenti del corpus dei racconti di viaggio delle donne: 
+	NN  occorre  777 volte
+	IN  occorre  673 volte
+	DT  occorre  599 volte
+	JJ  occorre  478 volte
+	NNP  occorre  452 volte
+	PRP  occorre  324 volte
+	NNS  occorre  322 volte
+	RB  occorre  306 volte
+	.  occorre  301 volte
+	,  occorre  240 volte
+
+10 POS piu' frequenti del corpus dei racconti di viaggio degli uomini: 
+	NN  occorre  839 volte
+	IN  occorre  710 volte
+	NNP  occorre  700 volte
+	DT  occorre  540 volte
+	JJ  occorre  389 volte
+	PRP  occorre  356 volte
+	.  occorre  273 volte
+	RB  occorre  266 volte
+	NNS  occorre  262 volte
+	,  occorre  237 volte
+
+
+------1O TRIGRAMMI DI POS PIU' FREQUENTI------
+10 trigrammi di POS piu' frequenti del corpus dei racconti di viaggio delle donne: 
+	Il trigramma . PRP VBZ occorre 13 volte
+	Il trigramma CD IN DT occorre 8 volte
+	Il trigramma , CC DT occorre 7 volte
+	Il trigramma . PRP VBD occorre 7 volte
+	Il trigramma VBZ CD IN occorre 5 volte
+	Il trigramma . DT VBZ occorre 5 volte
+	Il trigramma DT IN DT occorre 5 volte
+	Il trigramma IN DT NN occorre 5 volte
+	Il trigramma DT RBS JJ occorre 4 volte
+	Il trigramma IN NNP . occorre 4 volte
+
+10 trigrammi di POS piu' frequenti del corpus dei racconti di viaggio degli uomini: 	
+	Il trigramma NNP NNP NNP occorre 33 volte
+	Il trigramma TO NNP NNP occorre 16 volte
+	Il trigramma IN NNP NNP occorre 14 volte
+	Il trigramma NN TO NNP occorre 12 volte
+	Il trigramma NNP NNP NNP occorre 12 volte
+	Il trigramma NNP NNP NNP occorre 12 volte
+	Il trigramma NNP NNP NNP occorre 10 volte
+	Il trigramma IN NNP NNP occorre 7 volte
+	Il trigramma NNP NNP NNP occorre 7 volte
+	Il trigramma NNP NNP NNP occorre 7 volte
+
+
+------1O BIGRAMMI DI POS CON PROBABILITA' CONDIZIONATA MASSIMA------
+10 bigrammi di POS con probabilita' condizionata massima del corpus dei racconti di viaggio delle donne 
+	Bigramma NN . 			Probabilità ->  1.0
+	Bigramma VBG NN 			Probabilità ->  1.0
+	Bigramma NNP NNP 			Probabilità ->  1.0
+	Bigramma NN IN 			Probabilità ->  1.0
+	Bigramma NN TO 			Probabilità ->  1.0
+	Bigramma NN PRP 			Probabilità ->  1.0
+	Bigramma JJ NN 			Probabilità ->  1.0
+	Bigramma CD NNS 			Probabilità ->  1.0
+	Bigramma NN NN 			Probabilità ->  1.0
+	Bigramma NN , 			Probabilità ->  1.0
+
+10 bigrammi di POS con probabilita' condizionata massima del corpus dei racconti di viaggio degli uomini 
+	Bigramma NN CC 			Probabilità ->  1.0
+	Bigramma NNS , 			Probabilità ->  1.0
+	Bigramma VBP , 			Probabilità ->  1.0
+	Bigramma JJ NN 			Probabilità ->  1.0
+	Bigramma NNP NNP 			Probabilità ->  1.0
+	Bigramma NN NN 			Probabilità ->  1.0
+	Bigramma JJ NN 			Probabilità ->  1.0
+	Bigramma NNP IN 			Probabilità ->  1.0
+	Bigramma VBD PRP 			Probabilità ->  1.0
+	Bigramma NN NNP 			Probabilità ->  1.0
+
+
+------1O BIGRAMMI DI POS CON PROBABILITA' CONGIUNTA MASSIMA------
+10 bigrammi di POS con probabilita' congiunta massima del corpus dei racconti di viaggio delle donne:
+	Bigramma , CC 			Probabilità ->  0.00576738224928
+	Bigramma IN DT 			Probabilità ->  0.00576738224928
+	Bigramma IN DT 			Probabilità ->  0.0056071771868
+	Bigramma . DT 			Probabilità ->  0.00432553668696
+	Bigramma . PRP 			Probabilità ->  0.00416533162448
+	Bigramma . PRP 			Probabilità ->  0.00384492149952
+	Bigramma , CC 			Probabilità ->  0.0032041012496
+	Bigramma PRP VBZ 			Probabilità ->  0.00304389618712
+	Bigramma IN DT 			Probabilità ->  0.00272348606216
+	Bigramma CC DT 			Probabilità ->  0.0024030759372
+
+10 bigrammi di POS con probabilita' congiunta massima del corpus dei racconti di viaggio degli uomini:
+	Bigramma NNP NNP 			Probabilità ->  0.0124252185918
+	Bigramma IN DT 			Probabilità ->  0.00552231937414
+	Bigramma IN DT 			Probabilità ->  0.00536892161374
+	Bigramma NNP NNP 			Probabilità ->  0.00506212609296
+	Bigramma . PRP 			Probabilità ->  0.00398834177021
+	Bigramma , CC 			Probabilità ->  0.00368154624942
+	Bigramma , CC 			Probabilità ->  0.00352814848903
+	Bigramma . DT 			Probabilità ->  0.00337475072864
+	Bigramma TO DT 			Probabilità ->  0.00276115968707
+	Bigramma TO NNP 			Probabilità ->  0.00245436416628
+
+
+------LOCAL MUTUAL INFORMATION (LMI) DEI BIGRAMMI SOSTANTIVO-AGGETTIVO------
+LMI dei bigrammi Sostantivo-Aggettivo del corpus dei racconti di viaggio delle donne: 
+	Bigramma: ((u'new', 'JJ'), (u'Orleans', 'NNP')) 			LMI->  0.00509897203798
+	Bigramma: ((u'hot', 'JJ'), (u'springs', 'NNS')) 			LMI->  0.00461827984122
+	Bigramma: ((u'civil', 'JJ'), (u'war', 'NN')) 			LMI->  0.00353231821683
+	Bigramma: ((u'hot', 'JJ'), (u'chocolate', 'NN')) 			LMI->  0.00307885322748
+	Bigramma: ((u'larger', 'JJR'), (u'than', 'IN')) 			LMI->  0.00307885322748
+	Bigramma: ((u'typical', 'JJ'), (u'colombian', 'JJ')) 			LMI->  0.00307885322748
+	Bigramma: ((u'geothermal', 'JJ'), (u'hot', 'JJ')) 			LMI->  0.00307885322748
+	Bigramma: ((u'pretty', 'JJ'), (u'sure', 'JJ')) 			LMI->  0.00297568767873
+	Bigramma: ((u'small', 'JJ'), (u'town', 'NN')) 			LMI->  0.00282012708678
+	Bigramma: ((u'best', 'JJS'), (u'way', 'NN')) 			LMI->  0.00278822973906
+
+LMI dei bigrammi Sostantivo-Aggettivo del corpus dei racconti di viaggio degli uomini: 
+	Bigramma: ((u'able', 'JJ'), (u'to', 'TO')) 			LMI->  0.00481184732208
+	Bigramma: ((u'few', 'JJ'), (u'months', 'NNS')) 			LMI->  0.00291509316824
+	Bigramma: ((u'many', 'JJ'), (u'friends', 'NNS')) 			LMI->  0.00291509316824
+	Bigramma: ((u'beautiful', 'JJ'), (u'country', 'NN')) 			LMI->  0.00230140798874
+	Bigramma: ((u'first', 'JJ'), (u'time', 'NN')) 			LMI->  0.00223316852223
+	Bigramma: ((u'familiar', 'JJ'), (u'with', 'IN')) 			LMI->  0.00213862347916
+	Bigramma: ((u'most', 'JJS'), (u'people', 'NNS')) 			LMI->  0.00199456539899
+	Bigramma: ((u'numerous', 'JJ'), (u'strangers', 'NNS')) 			LMI->  0.0019438805825
+	Bigramma: ((u'artisan', 'JJ'), (u'shop', 'NN')) 			LMI->  0.0019438805825
+	Bigramma: ((u'fluffy', 'JJ'), (u'white', 'JJ')) 			LMI->  0.0019438805825
+
+
+-----20 NOMI PROPRI DI LUOGO PIU' FREQUENTI-----
+20 nomi di luogo piu' frequenti del corpus dei racconti di viaggio delle donne:
+	Il nome proprio di luogo  Colombia occorre 29 volte
+	Il nome proprio di luogo  Iceland occorre 19 volte
+	Il nome proprio di luogo  Varanasi occorre 15 volte
+	Il nome proprio di luogo  India occorre 5 volte
+	Il nome proprio di luogo  New occorre 5 volte
+	Il nome proprio di luogo  Bogota occorre 3 volte
+	Il nome proprio di luogo  Komodo occorre 2 volte
+	Il nome proprio di luogo  Medellin occorre 2 volte
+	Il nome proprio di luogo  New Iberia occorre 2 volte
+	Il nome proprio di luogo  Northup occorre 2 volte
+	Il nome proprio di luogo  Java occorre 1 volte
+	Il nome proprio di luogo  French occorre 1 volte
+	Il nome proprio di luogo  South America occorre 1 volte
+	Il nome proprio di luogo  Slovakia occorre 1 volte
+	Il nome proprio di luogo  Vishnu occorre 1 volte
+	Il nome proprio di luogo  Honolulu occorre 1 volte
+	Il nome proprio di luogo  Byways occorre 1 volte
+	Il nome proprio di luogo  Mughal occorre 1 volte
+	Il nome proprio di luogo  Santa occorre 1 volte
+	Il nome proprio di luogo  Rumour occorre 1 volte
+
+20 nomi di luogo piu' frequenti del corpus dei racconti di viaggio degli uomini
+	Il nome proprio di luogo  Pakistan occorre 20 volte
+	Il nome proprio di luogo  Holbox occorre 8 volte
+	Il nome proprio di luogo  Mexican occorre 7 volte
+	Il nome proprio di luogo  Ayahuasca occorre 5 volte
+	Il nome proprio di luogo  Mexico occorre 4 volte
+	Il nome proprio di luogo  South occorre 3 volte
+	Il nome proprio di luogo  Chiquilá occorre 2 volte
+	Il nome proprio di luogo  Luuma occorre 2 volte
+	Il nome proprio di luogo  Yucatan occorre 2 volte
+	Il nome proprio di luogo  Bogota occorre 2 volte
+	Il nome proprio di luogo  South America occorre 2 volte
+	Il nome proprio di luogo  Lahore occorre 2 volte
+	Il nome proprio di luogo  Argentina occorre 2 volte
+	Il nome proprio di luogo  Turquoise occorre 1 volte
+	Il nome proprio di luogo  Cancun occorre 1 volte
+	Il nome proprio di luogo  Cicolvia occorre 1 volte
+	Il nome proprio di luogo  Downtown occorre 1 volte
+	Il nome proprio di luogo  Loteria occorre 1 volte
+	Il nome proprio di luogo  Pool occorre 1 volte
+	Il nome proprio di luogo  Great occorre 1 volte

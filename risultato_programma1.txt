@@ -1,0 +1,88 @@
+
+
+***************OUPUT PROGRAMMA 1***************
+
+
+------NUMERO DEI TOKEN------
+Il corpus dei racconti di viaggio delle donne e' lungo 6242.0 token
+Il corpus dei racconti di viaggio degli uomini e' lungo 6519.0 token
+
+
+------NUMERO DELLE FRASI------ 
+Il corpus dei racconti di viaggio delle donne ha 300 frasi
+Il corpus dei racconti di viaggio degli uomini ha 271 frasi
+
+
+------LUNGHEZZA DELLE FRASI IN TERMINI DI TOKEN-----
+Lunghezza media delle frasi del corpus dei racconti di viaggio delle donne:  20.8066666667
+Lunghezza media delle frasi del corpus dei racconti di viaggio degli uomini:  24.0553505535
+
+
+-------LUNGHEZZA MEDIA DELLE PAROLE IN TERMINI DI CARATTERI-----
+Lunghezza media delle parole del corpus dei racconti di viaggio delle donne:  4.10285165011
+Lunghezza media delle parole del corpus dei racconti di viaggio degli uomini:  4.12455898144
+
+
+------GRANDEZZA DEL VOCABOLARIO ALL'AUMENTARE DEL CORPUS------ 
+Vocabolario del all'aumentare del corpus dei racconti di viaggio delle donne per porzioni di 1000 token: 
+	451
+	783
+	1058
+	1305
+	1583
+
+Grandezza del vocabolario all'aumentare del corpus dei racconti di viaggio degli uomini per porzioni di 1000 token: 
+	436
+	769
+	1007
+	1270
+	1503
+
+
+------NUMERO DEGLI HAPAX ALL'AUMENTARE DEL CORPUS-------
+Numero di Hapax all'aumentare del corpus dei racconti di viaggio delle donne per porzioni di 1000 token:
+	318
+	531
+	728
+	872
+	1047
+
+Numero di Hapax all'aumentare del corpus dei racconti di viaggio degli uomini per porzioni di 1000 token:
+	316
+	540
+	669
+	832
+	980
+
+
+------LA RICCHEZZA LESSICALE CALCOLATA ATTRAVERSO LA TYPE TOKEN RATIO (TTR) SUI PRIMI 5000 TOKEN------
+TTR sui primi 5000 token del corpus dei racconti di viaggio delle donne: 0.8010253124
+TTR sui primi 5000 token del corpus dei racconti di viaggio degli uomini: 0.766988801963
+
+
+------PERCENTUALE DELLE POS (SOSTANTIVI, VERBI, AGGETTIVI E PRONOMI) PER FRASE ------
+Percentuale delle POS del corpus dei racconti di viaggio delle donne	
+	Sostantivi --> 15.0 %
+	Aggettivi -->  5.0 %
+	Verbi --> 8.0 %
+	Pronomi --> 3.0 %
+
+Percentuale delle POS del corpus dei racconti di viaggio degli uomini	
+	Sostantivi --> 18.0 %
+	Aggettivi --> 4.0 %
+	Verbi --> 9.0 %
+	Pronomi --> 4.0 %
+
+
+------NUMERO MEDIO DELLE POS (SOSTANTIVI, VERBI, AGGETTIVI E PRONOMI) PER FRASE ------
+Numero medio delle POS nel corpus dei racconti di viaggio delle donne	
+	Sostantivi --> 5.17333333333
+	Aggettivi --> 1.74
+	Verbi --> 2.95333333333
+	Pronomi --> 1.3
+
+Numero medio delle POS nel corpus dei racconti di viaggio degli uomini	
+	Sostantivi --> 6.65682656827
+	Aggettivi --> 1.55350553506
+	Verbi --> 3.64944649446
+	Pronomi --> 1.64944649446
